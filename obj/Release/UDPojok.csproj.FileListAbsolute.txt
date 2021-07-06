@@ -1,0 +1,15 @@
+G:\Tugas\semester7\PemrogramanVisual\UDPojok\bin\Release\UDPojok.exe.config
+G:\Tugas\semester7\PemrogramanVisual\UDPojok\bin\Release\UDPojok.exe
+G:\Tugas\semester7\PemrogramanVisual\UDPojok\bin\Release\UDPojok.pdb
+G:\Tugas\semester7\PemrogramanVisual\UDPojok\bin\Release\EntityFramework.dll
+G:\Tugas\semester7\PemrogramanVisual\UDPojok\bin\Release\EntityFramework.SqlServer.dll
+G:\Tugas\semester7\PemrogramanVisual\UDPojok\bin\Release\EntityFramework.xml
+G:\Tugas\semester7\PemrogramanVisual\UDPojok\bin\Release\EntityFramework.SqlServer.xml
+G:\Tugas\semester7\PemrogramanVisual\UDPojok\obj\Release\UDPojok.csprojAssemblyReference.cache
+G:\Tugas\semester7\PemrogramanVisual\UDPojok\obj\Release\UDPojok.Form1.resources
+G:\Tugas\semester7\PemrogramanVisual\UDPojok\obj\Release\UDPojok.Properties.Resources.resources
+G:\Tugas\semester7\PemrogramanVisual\UDPojok\obj\Release\UDPojok.csproj.GenerateResource.cache
+G:\Tugas\semester7\PemrogramanVisual\UDPojok\obj\Release\UDPojok.csproj.CoreCompileInputs.cache
+G:\Tugas\semester7\PemrogramanVisual\UDPojok\obj\Release\UDPojok.csproj.CopyComplete
+G:\Tugas\semester7\PemrogramanVisual\UDPojok\obj\Release\UDPojok.exe
+G:\Tugas\semester7\PemrogramanVisual\UDPojok\obj\Release\UDPojok.pdb
